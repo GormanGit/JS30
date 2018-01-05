@@ -1,0 +1,20 @@
+{
+  "name": "jsClock",
+  "version": "1.0.0",
+  "description": "my sweet js clock",
+  "repository": "git",
+  "main": "index.js",
+  "scripts": {
+    "start": "http://localhost:8001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "opn-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "ws": "^4.0.0"
+  }
+}
